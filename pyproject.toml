@@ -1,0 +1,15 @@
+[project]
+name = "2-scraping-documentationa-mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "chromadb>=1.5.1",
+    "firecrawl-py>=4.16.0",
+    "lxml>=6.0.2",
+    "pysocks>=1.7.1",
+    "python-dotenv>=1.2.1",
+    "sentence-transformers>=5.2.3",
+]
