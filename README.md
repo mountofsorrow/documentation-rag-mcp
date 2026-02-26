@@ -23,7 +23,7 @@ A Model Context Protocol (MCP) server that enables semantic search over document
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/documentation-rag-mcp.git
+git clone https://github.com/mountofsorrow/documentation-rag-mcp.git
 cd documentation-rag-mcp
 ```
 
